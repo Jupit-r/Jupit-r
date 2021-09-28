@@ -2,7 +2,7 @@
 -🌨I’m interested in fashion, programming, subway trains, vampires
 -🌨I’m currently learning python
 -🌨I’m looking to collaborate on whatever
--🌨How to reach me 
+-🌨How to reach me: zoefetter@gmail.com
 
 <!---
 Jupit-r/Jupit-r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
